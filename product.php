@@ -1,1 +1,3 @@
-ECHO is on.
+<?php
+
+echo 'Ovde ce biti prikazani proizvodi';

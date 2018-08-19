@@ -1,1 +1,3 @@
-ECHO is on.
+<?php
+
+echo 'Ove stavljam news.';
